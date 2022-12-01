@@ -1,0 +1,1 @@
+{"name":"wptest","short_name":"wptest","display":"standalone","orientation":"portrait","background_color":"#006892","theme_color":"#006892","scope":"/","start_url":"/","icons":[{"src":"http://wptest.loc/wp-content/uploads/2020/07/favicon-150x150-1.jpg","sizes":"150x150","type":"image/png"}],"serviceworker":[{"src":"/sw.js","scope":"/","type":"","update_via_cache":"none"}]}
